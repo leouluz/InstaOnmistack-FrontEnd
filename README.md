@@ -1,2 +1,5 @@
-# InstaOnmistack-FrontEnd
- Onmistack 9.0
+Componentes FrontEnd
+yarn add socket.io
+yarn add react-router-rom
+yarn add nodemon
+Comandos de Execução
